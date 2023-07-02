@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://kaaponen.github.io/sitemap.xml
