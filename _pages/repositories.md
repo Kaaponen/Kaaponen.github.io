@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: github
-description: Olen koonnut tänne GitHubista käyttäjiä, organisaatiota ja repoja joita kannattaa seurata saavutettavuuden näkökulmasta. 
-Mikäli sinulle tulee vastaan mielenkiintoisia käyttäjiä, organisaatiota tai repoja jotkoa voisi tänne lisätä niin kerrothan siitä minulle.
+title: repos
+description: Olen koonnut tänne GitHubista käyttäjiä, organisaatiota ja repoja joita kannattaa seurata saavutettavuuden näkökulmasta. Mikäli sinulle tulee vastaan mielenkiintoisia käyttäjiä, organisaatiota tai repoja jotkoa voisi tänne lisätä niin kerrothan siitä minulle.
 nav: true
 nav_order: 3
 ---
