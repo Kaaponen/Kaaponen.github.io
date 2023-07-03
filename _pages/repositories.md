@@ -34,15 +34,6 @@ nav_order: 3
 {% endif %}
 {% endif %}
 
-## GitHub organisaatiot
-
-{% if site.data.repositories.github_organizations %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_organizations %}
-    {% include repository/repo_user.html username=user %}
-  {% endfor %}
-</div>
-
 ## GitHub Repot
 
 {% if site.data.repositories.github_repos %}
