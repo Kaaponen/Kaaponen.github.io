@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: GitHubissa seurattavaa
+title: GitHub
 description: Olen koonnut tänne GitHubista käyttäjiä, organisaatiota ja repoja joita kannattaa seurata saavutettavuuden näkökulmasta. 
 Mikäli sinulle tulee vastaan mielenkiintoisia käyttäjiä, organisaatiota tai repoja jotkoa voisi tänne lisätä niin kerrothan siitä minulle.
 nav: true
