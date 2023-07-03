@@ -1,14 +1,12 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+title: GitHubissa seurattavaa
+description: Olen koonnut tänne GitHubista käyttäjiä, organisaatiota ja repoja joita kannattaa seurata saavutettavuuden näkökulmasta. 
+Mikäli sinulle tulee vastaan mielenkiintoisia käyttäjiä, organisaatiota tai repoja jotkoa voisi tänne lisätä niin kerrothan siitä minulle.
 nav: true
 nav_order: 3
 ---
-
-Olen koonnut tänne GitHubista käyttäjiä, organisaatiota ja repoja joita kannattaa seurata saavutettavuuden näkökulmasta. 
-Mikäli sinulle tulee vastaan mielenkiintoisia käyttäjiä, organisaatiota tai repoja jotkoa voisi tänne lisätä niin kerrothan siitä minulle. 
 
 ## GitHub käyttäjät
 
@@ -38,7 +36,7 @@ Mikäli sinulle tulee vastaan mielenkiintoisia käyttäjiä, organisaatiota tai 
 
 ## GitHub organisaatiot
 
-{% if site.data.repositories.github_organizations%}
+{% if site.data.repositories.github_organizations %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_organizations %}
     {% include repository/repo_user.html username=user %}
