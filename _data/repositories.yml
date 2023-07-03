@@ -11,7 +11,7 @@ github_users:
   - wcag
 
 github_repos:
-  - wcag/guidelines/
+  - w3c/wcag
   - dequelabs/axe-core
   - component-driven/cypress-axe
   - w3c/aria-practices
