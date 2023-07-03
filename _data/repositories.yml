@@ -1,12 +1,20 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - marcysutton
+  - patrickhlauke
+  - WilcoFiers
+  - karlgroves
+  - stevefaulkner
+  - scottaohara
+  - hanshillen
+
+github_organizations:
+  - paciellogroup
+  - dequelabs
+  - wcag
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - wcag/guidelines/
+  - dequelabs/axe-core
+  - component-driven/cypress-axe
+  - w3c/aria-practices
+  - w3c/aria
